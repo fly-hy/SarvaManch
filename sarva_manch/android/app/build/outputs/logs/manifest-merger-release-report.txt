@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:1:1-43:12
+MERGED from [:agora_rtc_engine] /Users/avimanak/Desktop/flutter/sarva_munch/build/agora_rtc_engine/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-23:12
+MERGED from [:permission_handler] /Users/avimanak/Desktop/flutter/sarva_munch/build/permission_handler/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/avimanak/.gradle/caches/transforms-3/4e66a17781a117dae74a8408d5ff42e8/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/avimanak/.gradle/caches/transforms-3/6d8a5c94b02fb8088dcf6579aeaabcb6/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [com.github.agorabuilder:native-full-sdk:3.5.0.3] /Users/avimanak/.gradle/caches/transforms-3/faec04e1daa22781ff2b8a14d6136ce8/transformed/jetified-native-full-sdk-3.5.0.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/avimanak/.gradle/caches/transforms-3/402c62ee7f2fc2608553c373d732e29c/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/avimanak/.gradle/caches/transforms-3/74884224a9b66472520b023b0ea3d2cd/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/avimanak/.gradle/caches/transforms-3/14d7edfe3092cc297d634ab0c5f67361/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/avimanak/.gradle/caches/transforms-3/0c5ecaec2ccfe73143af20928bc525a5/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/avimanak/.gradle/caches/transforms-3/a661f4934c1da04e6ac2332792d97c7f/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/avimanak/.gradle/caches/transforms-3/02ac256c35b275d671f161eed53fecf7/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/avimanak/.gradle/caches/transforms-3/314b96beda5932fbf0e922fa27619857/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/avimanak/.gradle/caches/transforms-3/fc2d74d4b38e42d9dcadea45a809c553/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/avimanak/.gradle/caches/transforms-3/1e568380163bc85bbf859dc4010f2449/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/avimanak/.gradle/caches/transforms-3/6bbc449b6403001f433aa9913d2125d8/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/avimanak/.gradle/caches/transforms-3/4cf60c89213f339d9ffa9e51f1ec7c24/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/avimanak/.gradle/caches/transforms-3/142d89bde389d9dd216929bcfd74cfd5/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/avimanak/.gradle/caches/transforms-3/742bcb3a6b9a9268db398cc7c3061c9b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/avimanak/.gradle/caches/transforms-3/574615f050a1bf057d6488a91cdd9620/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/avimanak/.gradle/caches/transforms-3/5238c4fabe72327c957cd154f49cb4fa/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:1:1-43:12
+	package
+		ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:2:5-38
+		INJECTED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:1:1-43:12
+		INJECTED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:1:1-43:12
+		INJECTED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:3:4-42:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/avimanak/.gradle/caches/transforms-3/6d8a5c94b02fb8088dcf6579aeaabcb6/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/avimanak/.gradle/caches/transforms-3/6d8a5c94b02fb8088dcf6579aeaabcb6/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] /Users/avimanak/.gradle/caches/transforms-3/02ac256c35b275d671f161eed53fecf7/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/avimanak/.gradle/caches/transforms-3/02ac256c35b275d671f161eed53fecf7/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/avimanak/.gradle/caches/transforms-3/742bcb3a6b9a9268db398cc7c3061c9b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/avimanak/.gradle/caches/transforms-3/742bcb3a6b9a9268db398cc7c3061c9b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:4:5-48
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/avimanak/.gradle/caches/transforms-3/02ac256c35b275d671f161eed53fecf7/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:5:9-36
+	android:icon
+		ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:6:9-43
+activity#com.example.sarva_munch.MainActivity
+ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:7:9-36:20
+	android:launchMode
+		ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:10:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:13:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:14:13-55
+	android:exported
+		ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:9:13-36
+	android:configChanges
+		ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:12:13-163
+	android:theme
+		ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:11:13-47
+	android:name
+		ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:8:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:19:13-22:17
+	android:resource
+		ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:21:15-52
+	android:name
+		ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:20:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:28:13-31:17
+	android:resource
+		ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:30:15-61
+	android:name
+		ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:29:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:34:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:39:9-41:33
+	android:value
+		ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:41:13-30
+	android:name
+		ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml:40:13-44
+uses-sdk
+INJECTED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml
+MERGED from [:agora_rtc_engine] /Users/avimanak/Desktop/flutter/sarva_munch/build/agora_rtc_engine/intermediates/merged_manifest/release/AndroidManifest.xml:6:5-8:41
+MERGED from [:agora_rtc_engine] /Users/avimanak/Desktop/flutter/sarva_munch/build/agora_rtc_engine/intermediates/merged_manifest/release/AndroidManifest.xml:6:5-8:41
+MERGED from [:permission_handler] /Users/avimanak/Desktop/flutter/sarva_munch/build/permission_handler/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] /Users/avimanak/Desktop/flutter/sarva_munch/build/permission_handler/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/avimanak/.gradle/caches/transforms-3/4e66a17781a117dae74a8408d5ff42e8/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/avimanak/.gradle/caches/transforms-3/4e66a17781a117dae74a8408d5ff42e8/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/avimanak/.gradle/caches/transforms-3/6d8a5c94b02fb8088dcf6579aeaabcb6/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/avimanak/.gradle/caches/transforms-3/6d8a5c94b02fb8088dcf6579aeaabcb6/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.agorabuilder:native-full-sdk:3.5.0.3] /Users/avimanak/.gradle/caches/transforms-3/faec04e1daa22781ff2b8a14d6136ce8/transformed/jetified-native-full-sdk-3.5.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.agorabuilder:native-full-sdk:3.5.0.3] /Users/avimanak/.gradle/caches/transforms-3/faec04e1daa22781ff2b8a14d6136ce8/transformed/jetified-native-full-sdk-3.5.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/avimanak/.gradle/caches/transforms-3/402c62ee7f2fc2608553c373d732e29c/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/avimanak/.gradle/caches/transforms-3/402c62ee7f2fc2608553c373d732e29c/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/avimanak/.gradle/caches/transforms-3/74884224a9b66472520b023b0ea3d2cd/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/avimanak/.gradle/caches/transforms-3/74884224a9b66472520b023b0ea3d2cd/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/avimanak/.gradle/caches/transforms-3/14d7edfe3092cc297d634ab0c5f67361/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/avimanak/.gradle/caches/transforms-3/14d7edfe3092cc297d634ab0c5f67361/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/avimanak/.gradle/caches/transforms-3/0c5ecaec2ccfe73143af20928bc525a5/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/avimanak/.gradle/caches/transforms-3/0c5ecaec2ccfe73143af20928bc525a5/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/avimanak/.gradle/caches/transforms-3/a661f4934c1da04e6ac2332792d97c7f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/avimanak/.gradle/caches/transforms-3/a661f4934c1da04e6ac2332792d97c7f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/avimanak/.gradle/caches/transforms-3/02ac256c35b275d671f161eed53fecf7/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/avimanak/.gradle/caches/transforms-3/02ac256c35b275d671f161eed53fecf7/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/avimanak/.gradle/caches/transforms-3/314b96beda5932fbf0e922fa27619857/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/avimanak/.gradle/caches/transforms-3/314b96beda5932fbf0e922fa27619857/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/avimanak/.gradle/caches/transforms-3/fc2d74d4b38e42d9dcadea45a809c553/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/avimanak/.gradle/caches/transforms-3/fc2d74d4b38e42d9dcadea45a809c553/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/avimanak/.gradle/caches/transforms-3/1e568380163bc85bbf859dc4010f2449/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/avimanak/.gradle/caches/transforms-3/1e568380163bc85bbf859dc4010f2449/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/avimanak/.gradle/caches/transforms-3/6bbc449b6403001f433aa9913d2125d8/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/avimanak/.gradle/caches/transforms-3/6bbc449b6403001f433aa9913d2125d8/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/avimanak/.gradle/caches/transforms-3/4cf60c89213f339d9ffa9e51f1ec7c24/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/avimanak/.gradle/caches/transforms-3/4cf60c89213f339d9ffa9e51f1ec7c24/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/avimanak/.gradle/caches/transforms-3/142d89bde389d9dd216929bcfd74cfd5/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/avimanak/.gradle/caches/transforms-3/142d89bde389d9dd216929bcfd74cfd5/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/avimanak/.gradle/caches/transforms-3/742bcb3a6b9a9268db398cc7c3061c9b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/avimanak/.gradle/caches/transforms-3/742bcb3a6b9a9268db398cc7c3061c9b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/avimanak/.gradle/caches/transforms-3/574615f050a1bf057d6488a91cdd9620/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/avimanak/.gradle/caches/transforms-3/574615f050a1bf057d6488a91cdd9620/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/avimanak/.gradle/caches/transforms-3/5238c4fabe72327c957cd154f49cb4fa/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/avimanak/.gradle/caches/transforms-3/5238c4fabe72327c957cd154f49cb4fa/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/avimanak/Desktop/flutter/sarva_munch/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [:agora_rtc_engine] /Users/avimanak/Desktop/flutter/sarva_munch/build/agora_rtc_engine/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from [:agora_rtc_engine] /Users/avimanak/Desktop/flutter/sarva_munch/build/agora_rtc_engine/intermediates/merged_manifest/release/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.INTERNET
+ADDED from [:agora_rtc_engine] /Users/avimanak/Desktop/flutter/sarva_munch/build/agora_rtc_engine/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [:agora_rtc_engine] /Users/avimanak/Desktop/flutter/sarva_munch/build/agora_rtc_engine/intermediates/merged_manifest/release/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:agora_rtc_engine] /Users/avimanak/Desktop/flutter/sarva_munch/build/agora_rtc_engine/intermediates/merged_manifest/release/AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from [:agora_rtc_engine] /Users/avimanak/Desktop/flutter/sarva_munch/build/agora_rtc_engine/intermediates/merged_manifest/release/AndroidManifest.xml:12:22-68
+uses-permission#android.permission.CAMERA
+ADDED from [:agora_rtc_engine] /Users/avimanak/Desktop/flutter/sarva_munch/build/agora_rtc_engine/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from [:agora_rtc_engine] /Users/avimanak/Desktop/flutter/sarva_munch/build/agora_rtc_engine/intermediates/merged_manifest/release/AndroidManifest.xml:13:22-62
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [:agora_rtc_engine] /Users/avimanak/Desktop/flutter/sarva_munch/build/agora_rtc_engine/intermediates/merged_manifest/release/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from [:agora_rtc_engine] /Users/avimanak/Desktop/flutter/sarva_munch/build/agora_rtc_engine/intermediates/merged_manifest/release/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:agora_rtc_engine] /Users/avimanak/Desktop/flutter/sarva_munch/build/agora_rtc_engine/intermediates/merged_manifest/release/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from [:agora_rtc_engine] /Users/avimanak/Desktop/flutter/sarva_munch/build/agora_rtc_engine/intermediates/merged_manifest/release/AndroidManifest.xml:15:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:agora_rtc_engine] /Users/avimanak/Desktop/flutter/sarva_munch/build/agora_rtc_engine/intermediates/merged_manifest/release/AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from [:agora_rtc_engine] /Users/avimanak/Desktop/flutter/sarva_munch/build/agora_rtc_engine/intermediates/merged_manifest/release/AndroidManifest.xml:16:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:agora_rtc_engine] /Users/avimanak/Desktop/flutter/sarva_munch/build/agora_rtc_engine/intermediates/merged_manifest/release/AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from [:agora_rtc_engine] /Users/avimanak/Desktop/flutter/sarva_munch/build/agora_rtc_engine/intermediates/merged_manifest/release/AndroidManifest.xml:17:22-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:agora_rtc_engine] /Users/avimanak/Desktop/flutter/sarva_munch/build/agora_rtc_engine/intermediates/merged_manifest/release/AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from [:agora_rtc_engine] /Users/avimanak/Desktop/flutter/sarva_munch/build/agora_rtc_engine/intermediates/merged_manifest/release/AndroidManifest.xml:18:22-77
+uses-permission#android.permission.READ_PRIVILEGED_PHONE_STATE
+ADDED from [:agora_rtc_engine] /Users/avimanak/Desktop/flutter/sarva_munch/build/agora_rtc_engine/intermediates/merged_manifest/release/AndroidManifest.xml:19:5-21:47
+	tools:ignore
+		ADDED from [:agora_rtc_engine] /Users/avimanak/Desktop/flutter/sarva_munch/build/agora_rtc_engine/intermediates/merged_manifest/release/AndroidManifest.xml:21:9-44
+	android:name
+		ADDED from [:agora_rtc_engine] /Users/avimanak/Desktop/flutter/sarva_munch/build/agora_rtc_engine/intermediates/merged_manifest/release/AndroidManifest.xml:20:9-70
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/avimanak/.gradle/caches/transforms-3/6d8a5c94b02fb8088dcf6579aeaabcb6/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/avimanak/.gradle/caches/transforms-3/6d8a5c94b02fb8088dcf6579aeaabcb6/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/avimanak/.gradle/caches/transforms-3/6d8a5c94b02fb8088dcf6579aeaabcb6/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/avimanak/.gradle/caches/transforms-3/6d8a5c94b02fb8088dcf6579aeaabcb6/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/avimanak/.gradle/caches/transforms-3/6d8a5c94b02fb8088dcf6579aeaabcb6/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/avimanak/.gradle/caches/transforms-3/6d8a5c94b02fb8088dcf6579aeaabcb6/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51

@@ -1,4 +1,4 @@
-package com.example.sarva_manch
+package com.example.sarva_munch
 
 import io.flutter.embedding.android.FlutterActivity
 
